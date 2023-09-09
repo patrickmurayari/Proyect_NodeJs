@@ -1,0 +1,29 @@
+{
+  "name": "proyect_node",
+  "version": "1.0.0",
+  "description": "holaaa",
+  "main": "1.os-info.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickmurayari/Proyect_NodeJs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickmurayari/Proyect_NodeJs/issues"
+  },
+  "homepage": "https://github.com/patrickmurayari/Proyect_NodeJs#readme",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "17.1.0"
+  },
+  "eslintConfig": {
+    "extends" : "standard"
+  }
+}
